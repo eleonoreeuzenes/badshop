@@ -4,5 +4,5 @@
 /**
  * 
  */
-module antipattern {
+module badshop {
 }
